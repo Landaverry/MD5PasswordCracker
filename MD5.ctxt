@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=MD5
+comment0.text=\r\n\ MD5\r\n\ Kelbin\ Rodriguez\ and\ Matthew\ McDonald\r\n\ CS\ 492\r\n\ 04.25.2018\r\n
+comment1.params=pw\ shortcut
+comment1.target=MD5(java.lang.String,\ boolean)
+comment2.params=obj
+comment2.target=java.lang.String\ hashFunction(MD5)
+comment3.params=pass\ known\ position
+comment3.target=void\ bForce(MD5,\ java.lang.String,\ int)
+comment4.params=obj\ pass
+comment4.target=boolean\ compareHash(MD5,\ MD5)
+comment5.params=list
+comment5.target=java.lang.String\ getString(MD5[])
+comment6.params=input\ position
+comment6.target=MD5[]\ createShort(java.lang.String,\ int)
+comment7.params=trial\ index
+comment7.target=boolean\ checkQuit(MD5[],\ int)
+numComments=8
